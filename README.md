@@ -1,4 +1,6 @@
 # reasy  
+
+[![Join the chat at https://gitter.im/wEasyTeam/reasy](https://badges.gitter.im/wEasyTeam/reasy.svg)](https://gitter.im/wEasyTeam/reasy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![NPM version](https://badge.fury.io/js/reasy.png)](https://www.npmjs.org/package/reasy)
 [![Build Status](https://api.travis-ci.org/wEasyTeam/reasy.png?branch=master)](https://travis-ci.org/wEasyTeam/reasy)
 
